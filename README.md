@@ -31,6 +31,7 @@ This project is an e-commerce marketplace website that allows users to browse, s
 - HTML, CSS, JavaScript
 - MockAPI for simulating product data
 - AWS Amplify for hosting and deployment
+- firebase for authentication and user database
 
 ## Getting Started
 
