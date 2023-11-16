@@ -8,22 +8,23 @@
     "build": "echo 'No build steps needed for simple HTML/CSS/JS project'",
     "build:azure": "npm run build && azure-specific-build-command"
 
+},
+
+"repository": {
+  "type": "git",
+  "url": "git+https://github.com/aman-sheoran07/Cloud-.git"
+},
+"keywords": [],
+"author": "",
+"license": "ISC",
+"bugs": {
+  "url": "https://github.com/aman-sheoran07/Cloud-/issues"
+},
+"homepage": "https://github.com/aman-sheoran07/Cloud-#readme",
+"dependencies": {
+  "firebase": "^10.5.0"
 }
 
-}
 
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/aman-sheoran07/Cloud-.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/aman-sheoran07/Cloud-/issues"
-  },
-  "homepage": "https://github.com/aman-sheoran07/Cloud-#readme",
-  "dependencies": {
-    "firebase": "^10.5.0"
-  }
+}
 
