@@ -5,8 +5,7 @@
   "main": "cart.js",
 
  "scripts": {
-    "build": "echo 'No build steps needed for simple HTML/CSS/JS project'",
-    "build:azure": "npm run build "
+    "build":  "npm run build "
 
 },
 
