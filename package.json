@@ -6,7 +6,7 @@
 
  "scripts": {
     "build": "echo 'No build steps needed for simple HTML/CSS/JS project'",
-    "build:azure": "npm run build && azure-specific-build-command"
+    "build:azure": "npm run build "
 
 },
 
