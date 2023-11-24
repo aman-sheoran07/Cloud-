@@ -14,7 +14,7 @@ This project is an e-commerce marketplace website that allows users to browse, s
 
 ### Website URL
 
-- Live Site: https://main.d2tx8j7owvfvey.amplifyapp.com/index.html
+- Live Site: https://ecommercesitecpt.z29.web.core.windows.net/index.html
     (link may not work in future bcoz hosting platform will be changed in future.)
 ## Features
 
